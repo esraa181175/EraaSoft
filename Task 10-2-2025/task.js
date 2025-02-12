@@ -68,17 +68,17 @@
 
 // // -----------------------8-  ------------------------
 
-let array = [1, 8, 30, 4, 5, 6, 7,2, 10].sort((a, b) => a - b);
-console.log(array);
+// let array = [1, 8, 30, 4, 5, 6, 7,2, 10].sort((a, b) => a - b);
+// console.log(array);
 
-for (i = 0; i < array.length; i += 1) {
-    if (array[i] % 2 == 1) {
-        console.log(`odd numbers: ` + array[i]);
+// for (i = 0; i < array.length; i += 1) {
+//     if (array[i] % 2 == 1) {
+//         console.log(`odd numbers: ` + array[i]);
      
-    } else if (array[i] % 2 == 0) {
-        console.log(`even numbers: ` + array[i]);
-    }
-}
+//     } else if (array[i] % 2 == 0) {
+//         console.log(`even numbers: ` + array[i]);
+//     }
+// }
 
 
 
